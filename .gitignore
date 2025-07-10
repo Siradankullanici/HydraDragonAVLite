@@ -1,8 +1,11 @@
-# hydradragonlite ignore
+# hydragonlite ignore
 /hydragonlite/yara
 /hydragonlite/machinelearning
-/hydragonlite/database
 /hydragonlite/detectiteasy
+/hydragonlite/excluded
+/hydragonlite/hosts
+/hydragonlite/ClamAV
+/hydragonlite/known_extensions
 
 # pylingual
 dataset/
